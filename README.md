@@ -1,3 +1,6 @@
+Esse projeto de desenvolvimento de um "App de Controle e Organização de Finanças Pessoais" foi realizado como desafio de projeto da DIO aplicando conhecimentos de vibecoding usando Copilot Web e Lovable. A síntese do desafio é criar um App usando IA e comandos em linguagem natural (NLP) para gerar um MVP utilizável.
+
+---
 # 💸 App minhas_financas-DIO-Lovable do Aristóteles com vibecoding
 
 PRD completo, refinado no Copilot Web:
@@ -45,6 +48,7 @@ Aplicação do princípio de Uso Simples e Intuitivo: interface clara e linguage
 - Linguagem acessível e tom educativo, em português do Brasil.  
 Aplicação do princípio de Tolerância ao Erro: validações e confirmações antes de ações críticas (como excluir dados).
 ```
+---
 
 Interações com o Lovable:
 
@@ -58,6 +62,7 @@ Resultado final no Lovable: https://pocket-pal-finances-70.lovable.app/
 
 <img width="1365" height="646" alt="image" src="https://github.com/user-attachments/assets/4a58d14b-a241-4652-8fa7-6e4c27292c61" />
 
+---
 
 # 🛠️ Funcionalidades Principais – App de Finanças Pessoais:
 
@@ -100,6 +105,7 @@ Resultado final no Lovable: https://pocket-pal-finances-70.lovable.app/
 ### Design Universal
 - Estrutura pensada para ser utilizada pelo maior número de pessoas.
 - Aplicação dos princípios de acessibilidade e usabilidade.
+---
 
 # 💡 Reflexão:
 
