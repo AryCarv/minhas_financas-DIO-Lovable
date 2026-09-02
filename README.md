@@ -1,4 +1,4 @@
-Esse projeto de desenvolvimento de um "App de Controle e Organização de Finanças Pessoais" foi realizado como desafio de projeto da DIO aplicando conhecimentos de vibecoding usando Copilot Web e Lovable. A síntese do desafio é criar um App usando IA e comandos em linguagem natural (NLP) para gerar um MVP utilizável.
+Esse projeto de desenvolvimento de um "App de Controle e Organização de Finanças Pessoais" foi realizado como desafio de projeto da DIO aplicando conhecimentos de vibecoding usando Copilot Web e Lovable. A síntese do desafio foi criar um App usando IA e comandos em linguagem natural (NLP) para gerar um MVP utilizável.
 
 ---
 # 💸 App minhas_financas-DIO-Lovable do Aristóteles com vibecoding
